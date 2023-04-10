@@ -1,9 +1,13 @@
- <div>
+<div>
 <ul>
-  <p>Meu nome é José Arthur e eu sou estudante de analise e desenvolvimento de sistemas </p>
- <li> estou atualmente aprendendo mais as linguagens de programação Python, Java e JavaScript/TypeScript</li>
-</ul>
-</div>
+		<li>
+			<b>My name is José Arthur and I am currently a student of system analysis and development.</b>  
+			<ul>
+				<br>
+    <li>I have been focusing my studies on the programming languages Python, Java and JavaScript.</li>
+    <li>I aspire to become a skilled systems analyst by continuously learning and improving my skills.</li>
+			</ul>
+ </div>
  
 <div>
 <a href="https://beacons.ai/Morkgud">
@@ -13,7 +17,7 @@
 
 <div style="display: inline_block"><br>
 
- -Programming languages that I have already used
+ 🖥-Programming languages that I have already used
  
 <img align="center" alt="Morkgud-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Morkgud-php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
