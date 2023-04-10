@@ -30,6 +30,7 @@ target="_blank"></a>
 <img align="right" alt="bob esponja brabo" src="https://cdn.discordapp.com/attachments/970901599469842452/1094496783415124038/giphy.gif">
 </div>
  
+ ! [Snake animation](https://github.com/Morkgud/Morkgud/blob/output/github-contribution-grid-snake.svg)
 
 
 
