@@ -4,7 +4,7 @@
 			<b>My name is José Arthur and I am currently a student of system analysis and development.</b>  
 			<ul>
 				<br>
-    <li>I have been focusing my studies on the programming languages Python, Java and JavaScript.</li>
+    <li>I have been focusing my studies on the programming languages Python and Java.</li>
     <li>I aspire to become a skilled systems analyst by continuously learning and improving my skills.</li>
 			</ul>
  </div>
