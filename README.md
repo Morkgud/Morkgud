@@ -18,7 +18,7 @@
 
 <div style="display: inline_block"><br>
 
- 🖥-Programming languages that I have already used
+ 🖥- Languages that I have used
  
 <img align="center" alt="Morkgud-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Morkgud-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -35,7 +35,7 @@
 
 📲-Main social networks
  
-<a href="https://www.instagram.com/morkgud_/" target="_blank"><img
+<a href="https://www.instagram.com/jos_s.v/" target="_blank"><img
 src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="mailto:jarthur2105@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
 target="_blank"></a>
