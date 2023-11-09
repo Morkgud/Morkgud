@@ -4,7 +4,7 @@
 			<b>My name is José Arthur and I am currently a student of system analysis and development.</b>  
 			<ul>
 				<br>
-    <li>I have been focusing my studies on the programming languages Python and Java.</li>
+    <li>I have been focusing my studies on the programming languages C# and Java.</li>
     <li>I aspire to become a skilled systems analyst by continuously learning and improving my skills.</li>
 			</ul>
  </div>
@@ -26,6 +26,7 @@
 <img align="center" alt="Morkgud-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="center" alt="Morkgud-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Morkgud-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+<img align="center" alt="Morkgud-C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
 
 </div>
 
