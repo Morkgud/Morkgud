@@ -41,7 +41,6 @@ src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=ins
 <a href="mailto:jarthur2105@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
 target="_blank"></a>
 <a href="https://www.linkedin.com/in/josé-arthur-de-siqueira-vieira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<img align="right" alt="bob esponja brabo" src="https://cdn.discordapp.com/attachments/970901599469842452/1094496783415124038/giphy.gif">
 </div>
  
 
