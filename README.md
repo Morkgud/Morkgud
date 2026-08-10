@@ -1,25 +1,29 @@
 <div>
   <ul>
     <li>
-      <b>My name is José Arthur and I am currently a student of system analysis and development.</b>
+      <b>My name is José Arthur. I have a degree in IT and currently work as a Junior IT Support Technician.</b>
       <ul>
-        <br>
-        <li>I have been focusing my studies on the programming languages C# and Java.</li>
-        <li>I aspire to become a skilled systems analyst by continuously learning and improving my skills.</li>
+        <li>I am currently pursuing a postgraduate degree to further expand my knowledge.</li>
+        <li>Passionate about Data Analysis, Business Intelligence, and Linux system management.</li>
+        <li>Continuously learning and improving my skills to grow in the tech industry.</li>
       </ul>
     </li>
   </ul>
 </div>
 
-<div>
+<br>
+
+<div align="center">
   <a href="https://beacons.ai/Morkgud">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Morkgud&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true" alt="GitHub stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morkgud&layout=compact&langs_count=16&theme=synthwave" alt="Top languages"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Morkgud&show_icons=true&theme=synthwave&include_all_commits=true" alt="GitHub stats"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Morkgud&layout=compact&langs_count=16&theme=synthwave" alt="Top languages"/>
   </a>
 </div>
 
-<div style="display: inline_block"><br>
-  🖥- Languages that I have used
+<br>
+
+<div>
+  <b>🖥 - Languages and tools that I have used</b><br><br>
   <img align="center" alt="Morkgud-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Morkgud-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Morkgud-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -32,10 +36,7 @@
 <br>
 
 <div>
-  📲- Main social networks
-	<br>
-	<br>
-  <a href="https://www.instagram.com/morkgud_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <b>📲 - Main social networks</b><br><br>
   <a href="mailto:jarthur2105@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/josé-arthur-de-siqueira-vieira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
